@@ -1,0 +1,6 @@
+This is patch directory:
+
+Way to Apply the patches:
+cd WORKING_DIR
+sh device/gionee/GBL7360A/patches/apply-patches.sh
+sh device/gionee/GBL7360A/patches/revert-patches.sh
